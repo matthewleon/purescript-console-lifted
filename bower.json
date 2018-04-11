@@ -1,0 +1,19 @@
+{
+  "name": "purescript-console-lifted",
+  "homepage": "https://github.com/purescript/purescript-console-lifted",
+  "description": "purescript-console functions lifted to MonadEff",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/purescript/purescript-console-lifted.git"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-console": "^3.0.0"
+  }
+}
